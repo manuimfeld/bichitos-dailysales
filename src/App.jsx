@@ -1,14 +1,14 @@
 import './App.css';
-import { Compare } from './views/Compare';
-import { Buys } from './views/Buys';
-import { Sales } from './views/Sales';
+/* import { Auth } from './views/Auth'; */
+import { Home } from './views/Home';
 
 function App() {
   return (
     <div className="App">
-      {/* <Buys /> */}
-      <Sales />
-      {/* <Compare /> */}
+      <h1 className="text-3xl font-bold mb-4 text-center mt-4">
+        Registro de Ventas
+      </h1>
+      <Home />
     </div>
   );
 }
