@@ -1,0 +1,352 @@
+[
+    {
+        "paymentType": "Débito",
+        "amount": "5200",
+        "dni": "",
+        "turno": "Mañana",
+        "date": "2/1/2024, 10:18:01 PM"
+    },
+    {
+        "paymentType": "Efectivo",
+        "amount": "1000",
+        "dni": "",
+        "turno": "Mañana",
+        "date": "2/1/2024, 10:18:04 PM"
+    },
+    {
+        "paymentType": "Efectivo",
+        "amount": "3000",
+        "dni": "",
+        "turno": "Mañana",
+        "date": "2/1/2024, 10:18:09 PM"
+    },
+    {
+        "paymentType": "Transferencia",
+        "amount": "1700",
+        "dni": "",
+        "turno": "Mañana",
+        "date": "2/1/2024, 10:18:12 PM"
+    },
+    {
+        "paymentType": "Débito",
+        "amount": "4000",
+        "dni": "",
+        "turno": "Mañana",
+        "date": "2/1/2024, 10:18:18 PM"
+    },
+    {
+        "paymentType": "Débito",
+        "amount": "2800",
+        "dni": "",
+        "turno": "Mañana",
+        "date": "2/1/2024, 10:18:21 PM"
+    },
+    {
+        "paymentType": "Efectivo",
+        "amount": "5200",
+        "dni": "",
+        "turno": "Mañana",
+        "date": "2/1/2024, 10:18:27 PM"
+    },
+    {
+        "paymentType": "Efectivo",
+        "amount": "900",
+        "dni": "",
+        "turno": "Mañana",
+        "date": "2/1/2024, 10:18:30 PM"
+    },
+    {
+        "paymentType": "Efectivo",
+        "amount": "1250",
+        "dni": "",
+        "turno": "Mañana",
+        "date": "2/1/2024, 10:18:35 PM"
+    },
+    {
+        "paymentType": "Débito",
+        "amount": "1700",
+        "dni": "",
+        "turno": "Mañana",
+        "date": "2/1/2024, 10:18:41 PM"
+    },
+    {
+        "paymentType": "Transferencia",
+        "amount": "1000",
+        "dni": "",
+        "turno": "Mañana",
+        "date": "2/1/2024, 10:18:45 PM"
+    },
+    {
+        "paymentType": "Transferencia",
+        "amount": "6440",
+        "dni": "",
+        "turno": "Mañana",
+        "date": "2/1/2024, 10:18:51 PM"
+    },
+    {
+        "paymentType": "Débito",
+        "amount": "5600",
+        "dni": "",
+        "turno": "Mañana",
+        "date": "2/1/2024, 10:18:59 PM"
+    },
+    {
+        "paymentType": "Efectivo",
+        "amount": "800",
+        "dni": "",
+        "turno": "Mañana",
+        "date": "2/1/2024, 10:19:03 PM"
+    },
+    {
+        "paymentType": "Efectivo",
+        "amount": "650",
+        "dni": "",
+        "turno": "Mañana",
+        "date": "2/1/2024, 10:19:05 PM"
+    },
+    {
+        "paymentType": "Transferencia",
+        "amount": "1500",
+        "dni": "",
+        "turno": "Mañana",
+        "date": "2/1/2024, 10:19:12 PM"
+    },
+    {
+        "paymentType": "Efectivo",
+        "amount": "2010",
+        "dni": "",
+        "turno": "Mañana",
+        "date": "2/1/2024, 10:19:16 PM"
+    },
+    {
+        "paymentType": "Efectivo",
+        "amount": "3860",
+        "dni": "",
+        "turno": "Mañana",
+        "date": "2/1/2024, 10:19:20 PM"
+    },
+    {
+        "paymentType": "Débito",
+        "amount": "8300",
+        "dni": "",
+        "turno": "Mañana",
+        "date": "2/1/2024, 10:19:27 PM"
+    },
+    {
+        "paymentType": "Efectivo",
+        "amount": "900",
+        "dni": "",
+        "turno": "Mañana",
+        "date": "2/1/2024, 10:19:31 PM"
+    },
+    {
+        "paymentType": "Efectivo",
+        "amount": "600",
+        "dni": "",
+        "turno": "Mañana",
+        "date": "2/1/2024, 10:19:33 PM"
+    },
+    {
+        "paymentType": "Débito",
+        "amount": "32970",
+        "dni": "",
+        "turno": "Mañana",
+        "date": "2/1/2024, 10:19:40 PM"
+    },
+    {
+        "paymentType": "Transferencia",
+        "amount": "1000",
+        "dni": "",
+        "turno": "Mañana",
+        "date": "2/1/2024, 10:19:47 PM"
+    },
+    {
+        "paymentType": "Transferencia",
+        "amount": "400",
+        "dni": "",
+        "turno": "Mañana",
+        "date": "2/1/2024, 10:19:50 PM"
+    },
+    {
+        "paymentType": "Transferencia",
+        "amount": "2500",
+        "dni": "",
+        "turno": "Mañana",
+        "date": "2/1/2024, 10:19:53 PM"
+    },
+    {
+        "paymentType": "Efectivo",
+        "amount": "1470",
+        "dni": "",
+        "turno": "Tarde",
+        "date": "2/1/2024, 10:20:00 PM"
+    },
+    {
+        "paymentType": "Efectivo",
+        "amount": "1000",
+        "dni": "",
+        "turno": "Tarde",
+        "date": "2/1/2024, 10:20:03 PM"
+    },
+    {
+        "paymentType": "Efectivo",
+        "amount": "2000",
+        "dni": "",
+        "turno": "Tarde",
+        "date": "2/1/2024, 10:20:06 PM"
+    },
+    {
+        "paymentType": "Transferencia",
+        "amount": "2550",
+        "dni": "",
+        "turno": "Tarde",
+        "date": "2/1/2024, 10:20:11 PM"
+    },
+    {
+        "paymentType": "Débito",
+        "amount": "2200",
+        "dni": "",
+        "turno": "Tarde",
+        "date": "2/1/2024, 10:20:17 PM"
+    },
+    {
+        "paymentType": "Efectivo",
+        "amount": "2800",
+        "dni": "",
+        "turno": "Tarde",
+        "date": "2/1/2024, 10:20:21 PM"
+    },
+    {
+        "paymentType": "Débito",
+        "amount": "2450",
+        "dni": "",
+        "turno": "Tarde",
+        "date": "2/1/2024, 10:20:25 PM"
+    },
+    {
+        "paymentType": "Efectivo",
+        "amount": "1350",
+        "dni": "",
+        "turno": "Tarde",
+        "date": "2/1/2024, 10:20:30 PM"
+    },
+    {
+        "paymentType": "Efectivo",
+        "amount": "3700",
+        "dni": "",
+        "turno": "Tarde",
+        "date": "2/1/2024, 10:20:35 PM"
+    },
+    {
+        "paymentType": "Efectivo",
+        "amount": "550",
+        "dni": "",
+        "turno": "Tarde",
+        "date": "2/1/2024, 10:20:38 PM"
+    },
+    {
+        "paymentType": "Transferencia",
+        "amount": "2000",
+        "dni": "",
+        "turno": "Tarde",
+        "date": "2/1/2024, 10:20:41 PM"
+    },
+    {
+        "paymentType": "Efectivo",
+        "amount": "1650",
+        "dni": "",
+        "turno": "Tarde",
+        "date": "2/1/2024, 10:20:45 PM"
+    },
+    {
+        "paymentType": "Efectivo",
+        "amount": "600",
+        "dni": "",
+        "turno": "Tarde",
+        "date": "2/1/2024, 10:20:49 PM"
+    },
+    {
+        "paymentType": "Transferencia",
+        "amount": "4000",
+        "dni": "",
+        "turno": "Tarde",
+        "date": "2/1/2024, 10:20:55 PM"
+    },
+    {
+        "paymentType": "Efectivo",
+        "amount": "2700",
+        "dni": "",
+        "turno": "Tarde",
+        "date": "2/1/2024, 10:21:02 PM"
+    },
+    {
+        "paymentType": "Efectivo",
+        "amount": "6000",
+        "dni": "",
+        "turno": "Tarde",
+        "date": "2/1/2024, 10:21:06 PM"
+    },
+    {
+        "paymentType": "Efectivo",
+        "amount": "800",
+        "dni": "",
+        "turno": "Tarde",
+        "date": "2/1/2024, 10:21:11 PM"
+    },
+    {
+        "paymentType": "Efectivo",
+        "amount": "1400",
+        "dni": "",
+        "turno": "Tarde",
+        "date": "2/1/2024, 10:21:13 PM"
+    },
+    {
+        "paymentType": "Transferencia",
+        "amount": "3000",
+        "dni": "",
+        "turno": "Tarde",
+        "date": "2/1/2024, 10:21:24 PM"
+    },
+    {
+        "paymentType": "Efectivo",
+        "amount": "1500",
+        "dni": "",
+        "turno": "Tarde",
+        "date": "2/1/2024, 10:21:37 PM"
+    },
+    {
+        "paymentType": "Efectivo",
+        "amount": "1500",
+        "dni": "",
+        "turno": "Tarde",
+        "date": "2/1/2024, 10:21:41 PM"
+    },
+    {
+        "paymentType": "Efectivo",
+        "amount": "900",
+        "dni": "",
+        "turno": "Tarde",
+        "date": "2/1/2024, 10:21:43 PM"
+    },
+    {
+        "paymentType": "Efectivo",
+        "amount": "40000",
+        "dni": "",
+        "turno": "Tarde",
+        "date": "2/1/2024, 10:21:49 PM"
+    },
+    {
+        "paymentType": "Efectivo",
+        "amount": "1000",
+        "dni": "",
+        "turno": "Tarde",
+        "date": "2/1/2024, 10:21:54 PM"
+    },
+    {
+        "paymentType": "Efectivo",
+        "amount": "1950",
+        "dni": "",
+        "turno": "Tarde",
+        "date": "2/1/2024, 10:21:58 PM"
+    }
+]
